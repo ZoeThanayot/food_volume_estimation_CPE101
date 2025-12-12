@@ -1,0 +1,10 @@
+flask
+numpy
+pandas
+opencv-python-headless
+tensorflow
+torch
+torchvision
+Pillow
+requests
+openpyxl
