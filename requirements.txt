@@ -1,8 +1,9 @@
 flask
-numpy
+numpy<2
 pandas
 opencv-python-headless
 tensorflow
+ml-dtypes~=0.2.0
 torch
 torchvision
 Pillow
